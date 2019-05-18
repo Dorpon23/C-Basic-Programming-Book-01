@@ -1,1 +1,1 @@
-This is the basic c programming book will be solved.Here I can solved beginner problem
+This is the basic c programming book will be solved.
